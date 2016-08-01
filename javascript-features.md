@@ -1,5 +1,33 @@
 # Javascript Features
 
+## Closure
+
+Closing of a state. Saved scope and program code.
+
+Two main uses. Parametrized functions.
+
+```javascript
+let makeAdder = function (value) {
+	return function (input) {
+		input + value;
+	};
+};
+
+let adder5 = makeAdder(5);
+
+```
+
+And private variables:
+
+let x = (function () {
+	let privateMember = 5;
+	return {
+		getPrivate () {
+			return privateMember;
+		}
+	}
+})();
+
 ## Delete Operator
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete

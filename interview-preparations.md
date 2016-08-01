@@ -16,7 +16,6 @@ Interview Preparations
 5. Review try, catch, does finally work
 6. Review slice and splice
 7. Understand ES6 class syntax
-8. Do some exercies at Hacker Rank
 9. Basic module writing with require
 10. instanceof, x in arr,
 11. Object.assign, Object.create, Object.keys
@@ -24,7 +23,6 @@ Interview Preparations
 13. Review map, reduce*
 14. typecast in operations
 15. call, apply
-16. delete operator (foo.length?)
 17. Fastest way to create nodes
 18. Fastest way to attache events?
 19. String methods: splice, substring methods
@@ -36,6 +34,8 @@ Interview Preparations
 25. requestanimationframe
 26. Review Document selectors
 27. Strict mode?
+28. Check fetch vs ajax
+29. Element Creation
 
 ## Small Projects
 
