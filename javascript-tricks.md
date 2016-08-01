@@ -1,6 +1,6 @@
 # Tricky Javascript Features
 
-1. Constructor Return Values
+## Constructor Return Values
 
 ```javascript
 x = 1;
@@ -16,7 +16,7 @@ alert(foo.x); // returns 2 and foo is a bar object
 
 http://www.bennadel.com/blog/2522-providing-a-return-value-in-a-javascript-constructor.htm
 
-2. Named functions
+## Named functions
 
 ```javascript
 var foo = function bar() {};
@@ -26,7 +26,7 @@ function bar() {};
 alert(typeof bar); // returns "function"
 ```
 
-3. Arguments can be changed from the arguments array
+## Arguments can be changed from the arguments array
 
 ```javascript
 function foo(a) {
@@ -36,7 +36,7 @@ function foo(a) {
 foo(1); // alers 2
 ```
 
-4. Can not delete function properties --> but still messes up
+## Can not delete function properties --> but still messes up
 
 ```javascript
 function foo(a) {
