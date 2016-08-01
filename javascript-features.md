@@ -14,11 +14,11 @@ let makeAdder = function (value) {
 };
 
 let adder5 = makeAdder(5);
-
 ```
 
 And private variables:
 
+```javascript
 let x = (function () {
 	let privateMember = 5;
 	return {
@@ -27,6 +27,7 @@ let x = (function () {
 		}
 	}
 })();
+```
 
 ## Delete Operator
 
