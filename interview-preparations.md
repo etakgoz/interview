@@ -29,6 +29,10 @@ Interview Preparations
 18. Fastest way to attache events?
 19. String methods: splice, substring methods
 20. Note down the functon properties: name, length, arguments
+21. Review JS module loading
+22. Streams and when to use them?
+23. Testing Javascript Course on Udacity
+24. List different usage of clousures: other than privates
 
 ## Small Projects
 
