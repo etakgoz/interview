@@ -16,33 +16,32 @@ Interview Preparations
 3. Check variable/function hoisting
 4. Review promises, including finally, catch
 5. Review try, catch, does finally work
-6. Review slice and splice
+6. Review array splice
 7. Understand ES6 class syntax
 9. Basic module writing with require
 10. x in arr vs Object.keys,
 11. Object.assign, Object.create, Object.keys
-12. querySelectorAll, event delegation/bubbling
+12. event delegation/bubbling
 13. Review map, reduce*
 14. typecast in operations
 15. call, apply
-17. Fastest way to create nodes
-18. Fastest way to attache events?
-19. String methods: splice, substring methods
+18. Fastest way to attach events?
 20. Note down the functon properties: name, length, arguments
 21. Review JS module loading
 22. Streams and when to use them?
 23. Testing Javascript Course on Udacity
 25. requestanimationframe
-26. Review Document selectors
+26. Review Document selectors -- querySelectorAll,
 27. Strict mode?
 28. Check fetch vs ajax
-29. DOM Element Creation
+29. DOM Element Creation - fastest way to create noeds
 
 ## Small Projects
 
 1. Complete binary search tree
 2. Publisher observer pattern
 3. Hackerrank questions
+4. Write endsWith, indexOf, palindrome check etc
 
 # Rendering Performance
 
