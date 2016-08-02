@@ -23,5 +23,6 @@ let cagri = new Person("cagri", "35");
 console.log("Tolga is " + tolga.getAge());
 console.log("Cagri is " + cagri.getAge());
 
-console.log("Does Tolga and Cagri have some constructor? " + (tolga.constructor === cagri.constructor ? "Yes" : "No" ));
-console.log("Does Tolga and Cagri share some getName " + (tolga.getName === cagri.getName ? "Yes" : "No" ));
+console.log("Does Tolga and Cagri have the some constructor? " + (tolga.constructor === cagri.constructor ? "Yes" : "No" ));
+console.log("Does Tolga and Cagri share some getName? " + (tolga.getName === cagri.getName ? "Yes" : "No" ));
+console.log("Does Tolga and Cagri have the some prototype? " + (Object.getPrototypeOf(tolga) === Object.getPrototypeOf(cagri) ? "Yes" : "No" ));

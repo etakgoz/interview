@@ -4,8 +4,10 @@ Interview Preparations
 # OOP
 
 1. Note basic principles and learn SOLID solid
-2. Composition over inheritance
-3. Class hierarchy can be brittle and hard to modify
+2. Note down most common design patterns
+
+1. Composition over inheritance
+2. Class hierarchy can be brittle and hard to modify
 
 # Javascript
 
@@ -17,7 +19,7 @@ Interview Preparations
 6. Review slice and splice
 7. Understand ES6 class syntax
 9. Basic module writing with require
-10. instanceof, x in arr,
+10. x in arr vs Object.keys,
 11. Object.assign, Object.create, Object.keys
 12. querySelectorAll, event delegation/bubbling
 13. Review map, reduce*
@@ -30,12 +32,11 @@ Interview Preparations
 21. Review JS module loading
 22. Streams and when to use them?
 23. Testing Javascript Course on Udacity
-24. List different usage of clousures: other than privates
 25. requestanimationframe
 26. Review Document selectors
 27. Strict mode?
 28. Check fetch vs ajax
-29. Element Creation
+29. DOM Element Creation
 
 ## Small Projects
 
