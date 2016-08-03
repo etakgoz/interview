@@ -12,29 +12,27 @@ Interview Preparations
 # Javascript
 
 1. Review Prototypal Inheritance vs Classicial Inheritance
-2. Review function arugments, name, etc
-3. Check variable/function hoisting
-4. Review promises, including finally, catch
-5. Review try, catch, does finally work
-6. Review array splice
-7. Understand ES6 class syntax
-9. Basic module writing with require
-10. x in arr vs Object.keys,
-11. Object.assign, Object.create, Object.keys
-12. event delegation/bubbling
-13. Review map, reduce*
-14. typecast in operations
-15. call, apply
-18. Fastest way to attach events?
-20. Note down the functon properties: name, length, arguments
-21. Review JS module loading
-22. Streams and when to use them?
-23. Testing Javascript Course on Udacity
-25. requestanimationframe
-26. Review Document selectors -- querySelectorAll,
-27. Strict mode?
-28. Check fetch vs ajax
-29. DOM Element Creation - fastest way to create noeds
+2. Check variable/function hoisting
+3. Review promises, including finally, catch
+4. Review try, catch, does finally work
+5. Review array splice
+6. Understand ES6 class syntax
+7. Basic module writing with require
+8. Object.assign, Object.create
+9. event delegation/bubbling
+10. Review map, reduce*
+11. typecast in operations
+12. call, apply
+13. Fastest way to attach events?
+14. Note down the functon properties: name, length, arguments
+15. Review JS module loading
+16. Streams and when to use them?
+17. Testing Javascript Course on Udacity
+18. requestanimationframe
+19. Review Document selectors -- querySelectorAll,
+20. Check fetch vs ajax
+21. DOM Element Creation - fastest way to create noeds
+22. Map, Set collections
 
 ## Small Projects
 
